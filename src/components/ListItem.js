@@ -4,11 +4,9 @@ import {
   Text,
   TouchableHighlight, View
 } from 'react-native';
-import OptionsMenu from "react-native-option-menu";
 import URL from '../../global.json';
 import Circle from '../assets/icons/circle.svg';
 import FrameBlack from '../assets/icons/frameblack.svg';
-import MenuOption from '../assets/icons/option.svg';
 const {width: viewportWidth, height: viewportHeight} = Dimensions.get('window');
 export default function ListItem({
   photo,
