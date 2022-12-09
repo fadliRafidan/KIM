@@ -1,0 +1,16 @@
+{
+    "themeColors": {
+        "primary": "#6382E6",
+        "primary2": "#A98D14",
+        "black": "#1E1E1E",
+        "secondary": "#FFAA00",
+        "gray": "#00000020",
+        "blackSecondary": " #575757",
+        "secondary2": "#ACB6D7",
+        "secondaryOpacity": "#8B8BBC",
+        "grayOpacity": "#CDCDCD",
+        "success": "#16a34a",
+        "warning": "#ea580c",
+        "danger" : "#ff2442"
+    }
+}
